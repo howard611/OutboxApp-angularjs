@@ -55,7 +55,10 @@ body, html {
     font-size: 16px;
     font-weight: 700;
     padding-left: 2%;
-    width: 20%;
+    width: 18%; 
+    /* changed from 20% to 18% to incorporate for padding thickness and to 
+    bring the date from 2nd row to everything on the same row */
+    
 }
 
 .subject {
